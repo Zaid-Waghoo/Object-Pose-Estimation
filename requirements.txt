@@ -1,0 +1,9 @@
+numpy
+matplotlib
+opencv-python
+Pillow
+pyrealsense2
+torch
+transformers
+gradio
+requests
